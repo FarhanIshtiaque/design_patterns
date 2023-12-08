@@ -104,3 +104,11 @@ Use code with caution. [Learn more](https://bard.google.com/faq#coding)
 -   **Dependency injection libraries:** Provide more flexible and testable solutions for managing object dependencies.
 
 Choose the approach that best suits your needs and remember that the Singleton pattern, while powerful, should be used judiciously.
+
+#### Some useful tutorials
+
+[](https://bard.google.com/faq#citation)
+
+1.  [https://www.youtube.com/watch?v=GvhbvDosYWE](https://www.youtube.com/watch?v=GvhbvDosYWE)
+2. [https://www.youtube.com/watch?v=hUE_j6q0LTQ](https://www.youtube.com/watch?v=hUE_j6q0LTQ)
+3. [https://www.youtube.com/watch?v=JK6qIz0woaQ](https://www.youtube.com/watch?v=JK6qIz0woaQ)
