@@ -34,12 +34,26 @@ class Logger {
 ```
 
 
+
 **2. Static Fields with a Getter:**
+
 
 Dart
 
 ```
-class
+class DatabaseManager {
+  static final DatabaseManager _instance = DatabaseManager._internal();
+
+  DatabaseManager._internal();
+
+  static DatabaseManager get instance => _instance;
+
+  Future<void> openDatabase() async {
+    // Implement database opening logic
+  }
+}
+
+
 ```
 
 
